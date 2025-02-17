@@ -1,0 +1,11 @@
+Quant. de primos entre 1 e 700000000: 36252931
+Tempo total de execucao: 647.808397 com 8 threads
+Tempo de execucao de cada thread:
+Thread 0: 646.463192
+Thread 1: 646.478691
+Thread 2: 646.459263
+Thread 3: 646.493342
+Thread 4: 646.357486
+Thread 5: 646.436959
+Thread 6: 646.636308
+Thread 7: 646.448198

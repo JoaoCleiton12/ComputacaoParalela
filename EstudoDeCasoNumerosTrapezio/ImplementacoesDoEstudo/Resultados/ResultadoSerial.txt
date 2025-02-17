@@ -1,0 +1,55 @@
+ Com n = 2600000000 trapezoides , a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+ Tempo :         54.586040 com 1 threads .
+speed = 
+efi = 
+
+
+ Com n = 5300000000 trapezoides , a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+ Tempo :         110.738838 com 1 threads .
+speed = 
+efi = 
+
+
+ Com n = 10000000000 trapezoides , a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+ Tempo :         209.900128 com 1 threads .
+speed = 
+efi = 
+
+
+ Com n = 21000000000 trapezoides , a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+ Tempo :         441.563434 com 1 threads .
+speed = 
+efi = 
+
+
+ Com n = 31000000000 trapezoides , a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+ Tempo :         661.776218 com 1 threads .
+speed = 
+efi = 
+
+
+ Com n = 42000000000 trapezoides , a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+ Tempo :         880.521016 com 1 threads .
+speed = 
+efi = 
+
+
+ Com n = 53000000000 trapezoides , a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+ Tempo :         1113.555344 com 1 threads .
+speed = 
+efi = 
+
+
+ Com n = 63000000000 trapezoides , a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+ Tempo :         1314.646886 com 1 threads .
+speed = 
+efi = 
+

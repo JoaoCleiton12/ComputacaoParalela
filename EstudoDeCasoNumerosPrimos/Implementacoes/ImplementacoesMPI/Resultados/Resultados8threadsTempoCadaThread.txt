@@ -1,0 +1,10 @@
+Total de numeros primos no intervalo [1, 700000000]: 36252931
+Tempo de execucao de cada thread:
+Thread 0: 48.4315 segundos
+Thread 1: 74.1349 segundos
+Thread 2: 69.7483 segundos
+Thread 3: 76.9617 segundos
+Thread 4: 96.4705 segundos
+Thread 5: 105.297 segundos
+Thread 6: 111.84 segundos
+Thread 7: 104.648 segundos

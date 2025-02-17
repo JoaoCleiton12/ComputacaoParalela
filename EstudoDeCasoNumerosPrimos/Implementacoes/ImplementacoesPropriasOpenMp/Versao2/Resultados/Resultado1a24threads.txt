@@ -1,0 +1,47 @@
+Quant. de primos entre 1 e 700000000: 36252931
+Tempo de execucao: 7441.837792 com 1 threads
+speedup = 1,0
+eficiencia = 1,00
+
+Quant. de primos entre 1 e 700000000: 36252931
+Tempo de execucao: 4709.674256 com 2 threads
+4710
+speedup = 1,6
+eficiencia = 0,79
+
+Quant. de primos entre 1 e 700000000: 36252931
+Tempo de execucao: 2561.087186 com 4 threads
+speedup = 2,9
+eficiencia = 0,73
+
+Quant. de primos entre 1 e 700000000: 36252931
+Tempo de execucao: 1553.314122 com 8 threads
+speedup = 4,79
+eficiencia = 0,60
+
+Quant. de primos entre 1 e 700000000: 36252931
+Tempo de execucao: 1476.853540 com 12 threads
+1477
+speedup = 5,0
+eficiencia = 0,42
+
+Quant. de primos entre 1 e 700000000: 36252931
+Tempo de execucao: 1427.807026 com 16 threads
+1428
+speedup = 5,2
+eficiencia = 0,32
+
+Quant. de primos entre 1 e 700000000: 36252931
+Tempo de execucao: 1386.153830 com 20 threads
+speedup = 5,4
+eficiencia = 0,27
+
+Quant. de primos entre 1 e 700000000: 36252931
+Tempo de execucao: 1369.236555 com 24 threads
+speedup = 5,4
+eficiencia = 0,23
+
+Quant. de primos entre 1 e 700000000: 36252931
+Tempo de execucao: 1331.825379 com 48 threads
+speedup = 5,6
+eficiencia = 0,12

@@ -1,0 +1,40 @@
+Integral da funcao exponencial de 0.000000 a 1.000000: 1.718282
+Com n = 128000000000 trapezoides
+Tempo de execucao: 2736.413407 segundos
+Numero de threads em execucao: 1
+
+Integral da funcao exponencial de 0.000000 a 1.000000: 1.718282
+Com n = 128000000000 trapezoides
+Tempo de execucao: 1374.571646 segundos
+Numero de threads em execucao: 2
+
+Integral da funcao exponencial de 0.000000 a 1.000000: 1.718282
+Com n = 128000000000 trapezoides
+Tempo de execucao: 700.007966 segundos
+Numero de threads em execucao: 4
+
+Integral da funcao exponencial de 0.000000 a 1.000000: 1.718282
+Com n = 128000000000 trapezoides
+Tempo de execucao: 485.787436 segundos
+Numero de threads em execucao: 8
+
+Integral da funcao exponencial de 0.000000 a 1.000000: 1.718282
+Com n = 128000000000 trapezoides
+Tempo de execucao: 488.972411 segundos
+Numero de threads em execucao: 12
+
+Integral da funcao exponencial de 0.000000 a 1.000000: 1.718282
+Com n = 128000000000 trapezoides
+Tempo de execucao: 482.507883 segundos
+Numero de threads em execucao: 16
+
+Integral da funcao exponencial de 0.000000 a 1.000000: 1.718282
+Com n = 128000000000 trapezoides
+Tempo de execucao: 482.261799 segundos
+Numero de threads em execucao: 20
+
+Integral da funcao exponencial de 0.000000 a 1.000000: 1.718282
+Com n = 128000000000 trapezoides
+Tempo de execucao: 482.479584 segundos
+Numero de threads em execucao: 24
+

@@ -1,0 +1,9 @@
+Execução paralela
+
+Número de primos encontrados: 36252931
+Tempo de execução: 473.757413 segundos
+
+execução sequencial
+
+Número de primos encontrados: 36252931
+Tempo de execução: 472.073569 segundos

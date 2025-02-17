@@ -1,0 +1,23 @@
+resultados paralelo
+
+Com n = 800000000 trapezoides, a estimativa 
+da integral de 0.000000 ate 1.000000 = 1.718282 
+Tempo: 	 6.806007
+
+serial
+
+Com n = 800000000 trapezoides, a estimativa 
+da integral de 0.000000 ate 1.000000 = 1.718282 
+Tempo: 	 6.894055
+
+
+teste 2
+parelelo
+Com n = 8000000000 trapezoides, a estimativa 
+da integral de 0.000000 ate 1.000000 = 1.718282 
+Tempo: 	 68.077506
+
+serial
+Com n = 8000000000 trapezoides, a estimativa 
+da integral de 0.000000 ate 1.000000 = 1.718282 
+Tempo: 	 68.354899 

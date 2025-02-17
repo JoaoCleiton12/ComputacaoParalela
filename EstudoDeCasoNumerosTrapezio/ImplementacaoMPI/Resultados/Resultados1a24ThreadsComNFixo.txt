@@ -1,0 +1,46 @@
+
+1 threads
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo de execucao: 2578.153165 segundos
+
+
+2 threads
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo de execucao: 1284.468545 segundos
+
+
+4 threads
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo de execucao: 653.016343 segundos
+
+
+8 threads
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo de execucao: 479.468611 segundos
+
+
+12 threads
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo de execucao: 442.102667 segundos
+
+
+16 threads
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo de execucao: 447.494645 segundos
+
+
+20 threads
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo de execucao: 443.498053 segundos
+
+24 threads
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo de execucao: 446.149835 segundos

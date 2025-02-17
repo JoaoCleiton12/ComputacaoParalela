@@ -1,0 +1,31 @@
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo:   2859.559143 com 1 threads.
+
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo:   1435.025770 com 2 threads.
+
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo:   729.102749 com 4 threads.
+
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo:   489.359025 com 8 threads.
+
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo:   493.544667 com 12 threads.
+
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo:   488.484506 com 16 threads.
+
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo:   488.054712 com 20 threads.
+
+Com n = 128000000000 trapezoides, a estimativa
+da integral de 0.000000 ate 1.000000 = 1.718282
+Tempo:   488.430147 com 24 threads.

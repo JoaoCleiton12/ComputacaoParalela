@@ -1,0 +1,65 @@
+1 thread
+Total de numeros primos no intervalo [1, 700000000]: 36252931
+Tempo de execuþÒo: 581.4602773 segundos
+speedup = 1,0
+eficiencia = 1,00
+
+
+2 thread
+Total de numeros primos no intervalo [1, 700000000]: 36252931
+Tempo de execuþÒo: 366.9286282 segundos
+367
+speedup = 1,6
+eficiencia = 0,79
+
+
+4 thread
+Total de numeros primos no intervalo [1, 700000000]: 36252931
+Tempo de execuþÒo: 199.0883073 segundos
+speedup = 2,9
+eficiencia = 0,72
+
+
+8 thread
+Total de numeros primos no intervalo [1, 700000000]: 36252931
+Tempo de execuþÒo: 115.0763231 segundos
+speedup = 5,0
+eficiencia = 0,63
+
+
+12 thread
+Total de numeros primos no intervalo [1, 700000000]: 36252931
+Tempo de execuþÒo: 108.8876852 segundos
+109
+speedup = 5,4
+eficiencia = 0,45
+
+
+16 thread
+Total de numeros primos no intervalo [1, 700000000]: 36252931
+Tempo de execuþÒo: 107.8856266 segundos
+108
+speedup = 5,4
+eficiencia = 0,34
+
+
+20 thread
+Total de numeros primos no intervalo [1, 700000000]: 36252931
+Tempo de execuþÒo: 104.3904426 segundos
+speedup = 5,6
+eficiencia = 0,28
+
+
+24 thread
+Total de numeros primos no intervalo [1, 700000000]: 36252931
+Tempo de execuþÒo: 104.9277402 segundos
+105
+speedup = 5,6
+eficiencia = 0,23
+
+
+Total de numeros primos no intervalo [1, 700000000]: 36252931
+Tempo de execuþÒo: 101.3074648 segundos
+
+speedup = 5,7
+eficiencia = 0,12
